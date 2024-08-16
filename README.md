@@ -23,3 +23,12 @@
 - 后端管理web： http://localhost:8080/springboot808t0/admin/dist/index.html
 
 -  管理员账号/密码： abo/abo 摄影师账号/密码： 工号1/123456  普通用户账号/密码： 个人账号1/123456
+![0](https://github.com/Learning-Journey-Treasures/bysj-021/blob/master/1.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-021/blob/master/2.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-021/blob/master/3.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-021/blob/master/4.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-021/blob/master/5.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-021/blob/master/6.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-021/blob/master/7.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-021/blob/master/8.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-021/blob/master/9.png)
